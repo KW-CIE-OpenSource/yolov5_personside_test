@@ -1,0 +1,2 @@
+person_side
+person_front
